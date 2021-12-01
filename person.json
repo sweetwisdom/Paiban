@@ -1,0 +1,95 @@
+{
+    "success": true,
+    "data": {
+        "list": [
+            {
+                "id": "147",
+                "title": "循环+团队预约",
+                "name": "post",
+                "type": "",
+                "cate_id": "0",
+                "extra": "",
+                "remark": "",
+                "sort": "0",
+                "status": "1",
+                "created_at": "1638323620",
+                "updated_at": "2021-12-01 09:53:40",
+                "gid": "616",
+                "pid": "0",
+                "parName": ""
+            },
+            {
+                "id": "148",
+                "title": "服务中心",
+                "name": "post",
+                "type": "",
+                "cate_id": "0",
+                "extra": "",
+                "remark": "",
+                "sort": "0",
+                "status": "1",
+                "created_at": "1638323627",
+                "updated_at": "2021-12-01 09:53:47",
+                "gid": "616",
+                "pid": "0",
+                "parName": ""
+            },
+            {
+                "id": "149",
+                "title": "奖品兑换",
+                "name": "post",
+                "type": "",
+                "cate_id": "0",
+                "extra": "",
+                "remark": "",
+                "sort": "0",
+                "status": "1",
+                "created_at": "1638323635",
+                "updated_at": "2021-12-01 09:53:55",
+                "gid": "616",
+                "pid": "0",
+                "parName": ""
+            },
+            {
+                "id": "150",
+                "title": "VR讲解",
+                "name": "post",
+                "type": "",
+                "cate_id": "0",
+                "extra": "",
+                "remark": "",
+                "sort": "0",
+                "status": "1",
+                "created_at": "1638323643",
+                "updated_at": "2021-12-01 09:54:03",
+                "gid": "616",
+                "pid": "0",
+                "parName": ""
+            },
+            {
+                "id": "151",
+                "title": "其他在职",
+                "name": "post",
+                "type": "",
+                "cate_id": "0",
+                "extra": "",
+                "remark": "",
+                "sort": "0",
+                "status": "1",
+                "created_at": "1638323653",
+                "updated_at": "2021-12-01 09:54:13",
+                "gid": "616",
+                "pid": "0",
+                "parName": ""
+            }
+        ],
+        "page": {
+            "currentPage": 1,
+            "pageCount": 1,
+            "totalCount": 5,
+            "pageSize": 20
+        }
+    },
+    "statusCode": 200,
+    "message": "OK"
+}

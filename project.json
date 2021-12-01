@@ -1,0 +1,9 @@
+[
+  { "title": "循环+团队预约", "name": "a1" },
+  { "title": "服务中心", "name": "a2" },
+  { "title": "奖品兑换", "name": "a3" },
+  { "title": "VR讲解", "name": "a4" },
+  { "title": "其他在职", "name": "a5" },
+  { "title": "搞事情", "name": "a6" },
+  { "title": "调休", "name": "a0" }
+]
